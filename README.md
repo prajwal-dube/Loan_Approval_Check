@@ -1,4 +1,4 @@
-# CreditWise – Loan Approval Prediction System
+# Loan Approval Prediction System
 
 CreditWise is a machine learning project that analyzes applicant financial and demographic data to predict whether a loan will be approved or not.  
 The project follows a complete ML pipeline , from data cleaning and EDA to feature engineering, model training, and evaluation.
